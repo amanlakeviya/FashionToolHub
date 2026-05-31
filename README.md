@@ -1,6 +1,9 @@
 # 🛠 FashionToolHub
 a centralized dashboard that aggregates fashion-related tools into a single platform.
 ##Screenshot
+## 📸 Fashion Tools Hub Preview
+
+![Fashion Tools Hub](https://raw.githubusercontent.com/amanlakeviya/FashionToolHub/main/IMG_9994.jpeg)
 
 🔗 Live Demo:
 https://amanlakeviya.github.io/FashionToolHub/
