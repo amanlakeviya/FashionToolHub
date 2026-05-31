@@ -3,7 +3,7 @@ a centralized dashboard that aggregates fashion-related tools into a single plat
 ##Screenshot
 
 🔗 Live Demo:
-https://zoonifashion.github.io/Fashion-tools/
+https://amanlakeviya.github.io/FashionToolHub/
 
 Developed a centralized dashboard that aggregates fashion-related tools and resources into a single platform, helping creators streamline their workflow and improve productivity.
 
